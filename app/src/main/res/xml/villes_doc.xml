@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<villes>
+    <ville>
+        <cp>
+            75000
+        </cp>
+        <nom_ville>
+            Paris
+        </nom_ville>
+    </ville>
+    <ville>
+        <cp>
+            69000
+        </cp>
+        <nom_ville>
+            Lyon
+        </nom_ville>
+    </ville>
+    <ville>
+        <cp>
+            13000
+        </cp>
+        <nom_ville>
+            Marseille
+        </nom_ville>
+    </ville>
+</villes>
