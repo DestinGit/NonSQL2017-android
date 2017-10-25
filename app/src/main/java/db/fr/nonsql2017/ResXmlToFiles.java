@@ -97,6 +97,7 @@ public class ResXmlToFiles extends AppCompatActivity implements AdapterView.OnIt
                 }
                 xpp.next();
             }
+            is.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (XmlPullParserException e) {
