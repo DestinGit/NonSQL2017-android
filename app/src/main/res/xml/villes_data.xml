@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- villes_data.xml -->
+
+<!-- <villes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="villesDonnes.xsd"> -->
+
+<villes>
+    <ville code_pays="250" nom_ville="Paris" />
+    <ville code_pays="380" nom_ville="Rome" />
+    <ville code_pays="724" nom_ville="Madrid" />
+    <ville code_pays="826" nom_ville="Londres" />
+    <ville code_pays="840" nom_ville="Washington" />
+</villes>
