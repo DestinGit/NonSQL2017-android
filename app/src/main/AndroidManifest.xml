@@ -11,16 +11,16 @@
         <activity android:name=".Main" />
         <activity android:name=".FichierRessourcesLire" />
         <activity android:name=".XmlDocumentRessourcesLire" />
-        <activity android:name=".DataFichierEcrire"></activity>
-        <activity android:name=".DataFichierLire">
-        </activity>
+        <activity android:name=".DataFichierEcrire" />
+        <activity android:name=".DataFichierLire"></activity>
         <activity android:name=".ResXmlToFiles">
+        </activity>
+        <activity android:name=".JsonRessourcesLire">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 
